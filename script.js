@@ -27,7 +27,6 @@ window.addEventListener("DOMContentLoaded", () => {
     scrollTrigger: {
       trigger: "#Home",
       start: "top top",
-      endTrigger: "#section-intro",
       end: "+=1500",
       scrub: 3,   
       pin: true,
