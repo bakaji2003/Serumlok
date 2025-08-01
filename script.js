@@ -34,7 +34,7 @@ window.addEventListener("DOMContentLoaded", () => {
     },
     y: 450,x: 20,
     rotate :0,
-    ease: "power1.inOut"
+    ease: "power2.inOut"
   });
 });
 
